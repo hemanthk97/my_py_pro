@@ -1,3 +1,4 @@
+print("Hello")
 def ans(x,y):
     return (x+y)
 x = 10
