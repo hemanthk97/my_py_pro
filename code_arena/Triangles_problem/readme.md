@@ -45,3 +45,11 @@ passed test case : 5
 ```
 
 Note :- Efficient method solved please check version log (Efficient answer)
+
+
+> Efficient answer : <span style="color:green">success</span>
+
+```
+Test case available 10
+passed test case : 10
+```
