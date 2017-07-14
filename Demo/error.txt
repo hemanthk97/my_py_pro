@@ -1,0 +1,17 @@
+{
+ "experssionErrorPar": "Mismatched parentheses",
+ "experssionErrorOperator" : "Wrong number of operands for operator",
+ "experssionErrorOperand" : "Wrong type of operand(s) for operator",
+ "experssionErrorEqual" : "Using assignment operator in place of equality operator",
+ "experssionErrorQuotation" : "Mismatched quotation marks",
+ "NameError" : "Misspelled or undefined name",
+ "NameError_keywords":"Misspelled keyword",
+ "CodeBlockError" : "Missing colon before code block (if,elif,else,while,def)",
+ "IndentationError":"Improper indentation of code block",
+ "NumofArugments":"Wrong number of arguments for function call",
+ "whileLoopLimit" : "While loop limit exceeed",
+ "Not_Supported" : "is not supported in the interactive",
+ "lambda_Not_Supported" : "lambda is not supported in the interactive",
+ "evalExec":"eval, exec or input not supported",
+ "Warning": "using math or random module functions directly without importing"
+}
